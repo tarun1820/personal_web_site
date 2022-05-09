@@ -1,0 +1,58 @@
+body{
+    background-color: #FFF5EB;
+    margin: 0;
+    text-align: center;
+    
+}
+.education{
+    
+    position: absolute;
+    top:10%;
+    left:18%;
+}
+hr{
+    background-color: #DEEDF0;
+    /* color: #DEEDF0; */
+    border-color: #DEEDF0;
+    width: 70%;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+h3,h1{
+    color: #B2B8A3;
+    
+}
+h3:hover,h1:hover,a:hover{
+    color: #52006A;
+    
+}
+img:hover{
+    background-color: pink;
+}
+.edu-img,.image1{
+    
+    height: 100%;
+    width:  100%;
+}
+.home_body{
+    position: absolute;
+    top:850px;
+}
+.bar{
+    background-color: burlywood;
+    width: 100%;
+    height: 8%;
+    position: absolute;
+    top:0;
+}
+.about{
+    position: absolute;
+    top:230px;
+    left: 400px;
+    /* margin: 0 auto 0 auto ; */
+}
+.pofilepic{
+    position: absolute;
+    top:230px;
+    left: 100px;;
+}
