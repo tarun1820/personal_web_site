@@ -52,7 +52,7 @@ img:hover{
     top:0; */
 }
 .about{
-    background-color: #f34444;
+    background-color: #f06e6e;
     padding: 18% 0;
     /* margin: 0 auto 0 auto ; */
 }
@@ -105,27 +105,29 @@ img:hover{
   }
 
   .bottom{
-      width:100%;
-      height: 20%;
+      /* width:100%;
+      height: 40%; */
       background-color: #f99a9a;
-      position: absolute;
+      /* position: absolute; */
      margin-top: 5%;
+     padding-top: 2.5%;
+     padding-bottom: 2.5%;
     
   }
   .linked{
       color:#f34444;
     text-decoration: none;
-    position:absolute;
+    /* position:absolute;
     top:20%;
-    left: 45%;
+    left: 45%; */
     
   }
   .fb{
     color:#f34444;
     text-decoration: none;
-    position:absolute;
+    /* position:absolute;
     top:20%;
-    left:50%;
+    left:50%; */
 
   }
   .fb:hover{
@@ -141,9 +143,10 @@ img:hover{
   }
   .copy{
       color: #DEEDF0;
-      position:absolute;
+      margin-top: 1.0%;
+      /* position:absolute;
       left: 35%;
-      top:65%;
+      top:65%; */
     
       
   }
