@@ -2,7 +2,6 @@ body{
     background-color: #FFF5EB;
     margin: 0;
     text-align: center;
-    
     font-weight: 100;
     color: rgb(74, 77, 77);
 }
@@ -21,10 +20,14 @@ hr{
     margin-bottom: 20px; */
     margin: 0 auto 1.5% auto;
 }
-h1,a{
+a{
     color: #f73737b5;
     font-family: 'Oleo Script', cursive;
     
+}
+h1{
+    color: white;
+    font-family: 'Oleo Script', cursive;
 }
 h3:hover,h1:hover,a:hover{
     color: #52006A;
@@ -34,7 +37,6 @@ img:hover{
     background-color: pink;
 }
 .edu-img,.image1{
-    
     height: 100%;
     width:  100%;
 }
@@ -46,20 +48,27 @@ img:hover{
     background-color: burlywood;
     width: 100%;
     height: 8%;
-    position: absolute;
-    top:0;
+    /* position: absolute;
+    top:0; */
 }
 .about{
-    position: absolute;
-    top:230px;
-    left: 400px;
-    font-family: Papyrus, fantasy;
+    background-color: #f34444;
+    padding: 18% 0;
     /* margin: 0 auto 0 auto ; */
 }
-.pofilepic{
+/* .pofilepic{
+    width:20%;
+    height: 45%;
     position: absolute;
-    top:230px;
-    left: 100px;;
+    top:35%;
+    left: 18%;
+} */
+.profile-pic{
+    padding-left: 15%;
+}
+
+.intro{
+    padding-top: 2.5%;
 }
 .eduinfo{
     margin: 10% auto 0 auto;
@@ -134,7 +143,7 @@ img:hover{
       color: #DEEDF0;
       position:absolute;
       left: 35%;
-      top:70%;
+      top:65%;
     
       
   }
