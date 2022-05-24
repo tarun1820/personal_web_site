@@ -206,3 +206,21 @@ span{
     
     background-color: #f34444;
 }
+
+@media (max-width:900px) {
+    .profile-pic{
+        padding-left: 0;
+    }
+    .eduinfo{
+        /* margin: 10% auto 0 auto; */
+        padding: 20% 15% 15% 10%;
+        margin-bottom: 15%;
+        height: 300px;
+    }
+    .home-wap{
+        position:fixed;
+        padding-left: 38%;
+        padding-top: 10%;
+        margin: 0;
+    }
+}
