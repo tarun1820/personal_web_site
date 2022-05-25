@@ -215,12 +215,12 @@ span{
         /* margin: 10% auto 0 auto; */
         padding: 20% 15% 15% 10%;
         margin-bottom: 15%;
-        height: 300px;
+        height: 350px;
     }
     .home-wap{
         position:fixed;
-        padding-left: auto;
-        padding-top: auto;
+        padding-left: 38%;
+        padding-top: 10%;
         margin: 0;
     }
 }
