@@ -219,8 +219,8 @@ span{
     }
     .home-wap{
         position:fixed;
-        padding-left: 38%;
-        padding-top: 10%;
+        padding-left: auto;
+        padding-top: auto;
         margin: 0;
     }
 }
